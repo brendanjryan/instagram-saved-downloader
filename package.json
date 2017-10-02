@@ -1,0 +1,19 @@
+{
+  "name": "instagram-saved-downloader",
+  "version": "0.0.1",
+  "description": "Download your saved posts from instagram.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Brendan Ryan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "instagram-private-api": "^0.6.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "prettier": "1.7.3"
+  }
+}
